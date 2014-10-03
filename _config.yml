@@ -1,5 +1,5 @@
 # The public documentation URL, used for sitemap.xml
-url: "http://docs.telerik.com/product"
+url: "http://docs.telerik.com/devtools/ios"
 
 # Exclude files which should not be in the output
 exclude: [README.md,Gemfile,Gemfile.lock]
@@ -12,7 +12,7 @@ navigation:
         title: Foo
 
 ## The application virtual path
-baseurl: /kendo-ui
+baseurl: "/devtools/ios"
 
 ## The product name
 productName: "AppBuilder"
