@@ -1,21 +1,20 @@
 # The public documentation URL, used for sitemap.xml
-url: "http://docs.telerik.com/devtools/ios"
+url: "http://docs.telerik.com/teststudio"
 
 # Exclude files which should not be in the output
 exclude: [README.md,Gemfile,Gemfile.lock]
 navigation:
 ## List your directory names and order here, like this:
-    getting-started:
-        position: 2
-        title: Getting Started
-    "*foo":
-        title: Foo
+   "*installation": 
+        title: "Installation" 
+        position: 3 
+
 
 ## The application virtual path
-baseurl: "/devtools/ios"
+baseurl: "/teststudio"
 
 ## The product name
-productName: "AppBuilder"
+productName: "Test Studio"
 
 ## Assign layout and category per different paths
 defaults:
